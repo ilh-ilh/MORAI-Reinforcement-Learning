@@ -1,5 +1,6 @@
 # Reinforcement Learning in MORAI Simulator
- End-to-End application of reinforcement learning in autonomous vehicles using the MORAI simulator. 
+ - End-to-End application of reinforcement learning in autonomous vehicles using the MORAI simulator. 
+ - Uses the Proximal Policy Optimization (PPO) algorithm.
 
 ## Dependencies
 - Ubuntu 20.04 
@@ -24,4 +25,8 @@
   $ cp...
   ```
 
-
+  ### MORAI Simulator Control API
+  - `LinkConnection.txt`
+  - `params.txt`
+ 
+  
